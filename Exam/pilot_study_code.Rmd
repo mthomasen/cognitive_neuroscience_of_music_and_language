@@ -1,0 +1,231 @@
+---
+title: "cog_com_exam"
+author: "Manuela Thomasen"
+date: "5/12/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+pacman::p_load(tidyverse, dplyr, data.table, lmer4, lmerTest, ggplot2, MuMIn, caret, sjPlot, ggpubr)
+```
+
+```{r}
+data <- read.csv('Emotionelt_respons_på_musik_18_dec.csv')
+
+data <- data %>% 
+  rename(ID=ID..navn.)
+```
+
+cleaning up the data
+
+anonymize the data
+```{r}
+
+data <- data %>% 
+  mutate(ID=as.factor(ID))
+
+data <- data %>% 
+  mutate(ID=as.numeric(ID))
+
+data <- data %>% 
+  mutate(ID=as.factor(ID))
+
+data <- data %>% rename(consent=bekrÃ.ftelse)
+
+data <- data %>% rename(køn=KÃ.n)
+```
+
+```{r}
+data <- data %>% 
+  gather(key='colname', val='valence', -ID, -Tidsstempel, -consent, -Alder, -køn) %>% 
+  arrange(ID) %>% 
+  dplyr::select(Tidsstempel, consent, ID, Alder, køn, colname,valence)
+```
+
+```{r}
+data <- data %>% 
+  mutate(key=(ifelse(grepl('ma', colname), 'major', 'minor')))
+
+data <- data %>% 
+  mutate(type=(ifelse(grepl('nl', colname), 'nolyric', 'lyric')))
+
+data <- data %>% 
+  mutate(song=as.numeric(str_extract(colname, '\\d+')))
+
+data <- data %>% 
+  mutate(song=as.character(song))
+
+data <- data %>% 
+  mutate(valence=gsub('(-[0-9]).*', '\\1', data$valence))
+
+data <- data %>% 
+mutate(valence=gsub('([0-9]).*', '\\1', data$valence))
+
+data <- data %>% 
+  mutate(valence=as.numeric(valence))
+```
+
+```{r}
+data %>% 
+  summarise(meanage=mean(Alder), sdage=sd(Alder))
+
+data %>% 
+  group_by(køn) %>% 
+  summarise(n())
+
+data %>%  
+  summarise(min(Alder), max(Alder))
+```
+
+```{r}
+time <- c(57,64,66,68,64,61,76,57)
+
+tempo <- c(97, 102, 101, 97, 102, 100, 105, 100)
+```
+
+
+plot data
+let us see if lyric's have a influence on the valenceence, grouped by key
+```{r}
+data %>% 
+  ggplot(aes(x=key, y=valence, group=type, colour=type))+
+  geom_point()+
+  ggtitle('Visualisation of data')
+
+```
+
+FÅ SAT ERRORBARS PÅ
+```{r}
+data %>% 
+  ggplot (aes(x=key, y=valence, group=type, colour=type))+
+  geom_point(stat = 'summary', fun.y='mean')+
+  geom_line(stat = 'summary', fun.y='mean')+
+  geom_errorbar(stat = 'summary')+
+  ggtitle('Visualization of data')+
+  theme_minimal()
+
+
+
+data %>% 
+  ggplot (aes(x=key, y=valence, group=ID, colour=ID))+
+  geom_point(stat = 'summary', fun.y='mean')+
+  geom_line(stat = 'summary', fun.y='mean')
+
+
+```
+
+
+
+```{r}
+data %>% 
+  ggplot(aes(x=key, y=valence, group=type, colour=type))+
+  geom_point(aes(col=ID))+
+  geom_smooth(method = 'lm', na.rm = T, se = F)
+
+data %>% 
+  ggplot(aes(x=key, y=valence, group=type, colour=type))+
+  geom_point()+
+  facet_grid(~ID, scale ='free')
+
+data %>% 
+  ggplot (aes(x=key, y=valence, group=type, colour=type))+
+  geom_point(stat = 'summary', fun.y='mean')+
+  geom_line(stat = 'summary', fun.y='mean')+
+  facet_grid(~ID, scale='free')
+
+#plots <-ggarrange(plot3, plot4)
+
+#annotate_figure(plots, top = text_grob('Visualisation of data, arranged by ID', color='black', face= 'bold', size=20))
+```
+
+
+models 
+
+```{r}
+
+hyp_1 <- lmer(valence~key+(1|ID), data=data, REML = F)
+
+
+hyp_2.1 <-  lmer(valence~key+type+(1|ID), data = data, REML = F)
+
+
+hyp_2.2 <- lmer(valence~key*type+(1|ID), data=data, REML = F)
+```
+
+assumptions 
+```{r}
+plot(hyp_1)
+
+plot(hyp_2.1)
+
+plot(hyp_2.2)
+```
+
+summary models
+
+
+
+
+```{r}
+summary(hyp_1)
+
+r.squaredGLMM(hyp_1)
+
+tab_model(hyp_1)
+```
+
+```{r}
+summary(hyp_2.1)
+
+r.squaredGLMM(hyp_2.1)
+
+tab_model(hyp_2.1)
+```
+
+```{r}
+summary(hyp_2.2)
+
+r.squaredGLMM(hyp_2.2)
+
+tab_model(hyp_2.2)
+```
+
+anova on models for hypothesis 2, are they sagnificantly different from each other 
+
+```{r}
+anova(hyp_2.1, hyp_2.2)
+
+
+```
+
+```{r}
+data %>% 
+  group_by(key, type) %>% 
+  summarise(mean=mean(valence), sd=sd(valence))
+```
+
+
+plot models 
+
+```{r}
+model_hyp_1 <- coef(hyp_1)$ID %>% 
+  rownames_to_column('ID')
+
+data_hyp_1 <- left_join(data, model_hyp_1, by='ID')
+
+data_hyp_1 %>% 
+  ggplot(aes(x=key, y=valence, colour=ID))+
+  geom_point(na.rm = T, alpha = 0.5)+
+  geom_abline(aes(intercept=`(Intercept)`, slope=keyminor, colour=ID))
+
+```
+
+
+```{r}
+plot_model(hyp_2.2, type = "int")
+
+```
+
+
