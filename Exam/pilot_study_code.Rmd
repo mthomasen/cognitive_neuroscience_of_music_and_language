@@ -12,15 +12,15 @@ pacman::p_load(tidyverse, dplyr, data.table, lmer4, lmerTest, ggplot2, MuMIn, ca
 ```
 
 ```{r}
-data <- read.csv('Emotionelt_respons_på_musik_18_dec.csv')
+data <- read.csv('pilot_study_data.csv')
 
 data <- data %>% 
   rename(ID=ID..navn.)
 ```
 
-cleaning up the data
+##Cleaning up the data
 
-anonymize the data
+###Anonymize the data
 ```{r}
 
 data <- data %>% 
@@ -32,18 +32,20 @@ data <- data %>%
 data <- data %>% 
   mutate(ID=as.factor(ID))
 
-data <- data %>% rename(consent=bekrÃ.ftelse)
+data <- data %>% rename(consent=bekr?.ftelse)
 
-data <- data %>% rename(køn=KÃ.n)
+data <- data %>% rename(k?n=K?.n)
 ```
 
+### Select relevant columns 
 ```{r}
 data <- data %>% 
-  gather(key='colname', val='valence', -ID, -Tidsstempel, -consent, -Alder, -køn) %>% 
+  gather(key='colname', val='valence', -ID, -Tidsstempel, -consent, -Alder, -k?n) %>% 
   arrange(ID) %>% 
-  dplyr::select(Tidsstempel, consent, ID, Alder, køn, colname,valence)
+  dplyr::select(Tidsstempel, consent, ID, Alder, k?n, colname,valence)
 ```
 
+### Clean up the content of the columns to make it more analysible 
 ```{r}
 data <- data %>% 
   mutate(key=(ifelse(grepl('ma', colname), 'major', 'minor')))
@@ -72,7 +74,7 @@ data %>%
   summarise(meanage=mean(Alder), sdage=sd(Alder))
 
 data %>% 
-  group_by(køn) %>% 
+  group_by(k?n) %>% 
   summarise(n())
 
 data %>%  
@@ -86,8 +88,8 @@ tempo <- c(97, 102, 101, 97, 102, 100, 105, 100)
 ```
 
 
-plot data
-let us see if lyric's have a influence on the valenceence, grouped by key
+##Plot data
+Let us see if lyric's have a influence on the valenceence, grouped by key
 ```{r}
 data %>% 
   ggplot(aes(x=key, y=valence, group=type, colour=type))+
@@ -96,7 +98,7 @@ data %>%
 
 ```
 
-FÅ SAT ERRORBARS PÅ
+
 ```{r}
 data %>% 
   ggplot (aes(x=key, y=valence, group=type, colour=type))+
@@ -117,7 +119,6 @@ data %>%
 ```
 
 
-
 ```{r}
 data %>% 
   ggplot(aes(x=key, y=valence, group=type, colour=type))+
@@ -135,13 +136,10 @@ data %>%
   geom_line(stat = 'summary', fun.y='mean')+
   facet_grid(~ID, scale='free')
 
-#plots <-ggarrange(plot3, plot4)
-
-#annotate_figure(plots, top = text_grob('Visualisation of data, arranged by ID', color='black', face= 'bold', size=20))
 ```
 
 
-models 
+##Models 
 
 ```{r}
 
@@ -154,7 +152,7 @@ hyp_2.1 <-  lmer(valence~key+type+(1|ID), data = data, REML = F)
 hyp_2.2 <- lmer(valence~key*type+(1|ID), data=data, REML = F)
 ```
 
-assumptions 
+Assumptions 
 ```{r}
 plot(hyp_1)
 
@@ -163,10 +161,7 @@ plot(hyp_2.1)
 plot(hyp_2.2)
 ```
 
-summary models
-
-
-
+Summary models
 
 ```{r}
 summary(hyp_1)
@@ -192,7 +187,7 @@ r.squaredGLMM(hyp_2.2)
 tab_model(hyp_2.2)
 ```
 
-anova on models for hypothesis 2, are they sagnificantly different from each other 
+Anova on models for hypothesis 2, are there significantly different from each other 
 
 ```{r}
 anova(hyp_2.1, hyp_2.2)
@@ -207,7 +202,7 @@ data %>%
 ```
 
 
-plot models 
+Plot models 
 
 ```{r}
 model_hyp_1 <- coef(hyp_1)$ID %>% 
