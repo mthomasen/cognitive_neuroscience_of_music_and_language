@@ -13,16 +13,18 @@ knitr::opts_chunk$set(echo = TRUE)
 pacman::p_load(tidyverse, pdftools, readr)
 
 my_valentine_lyrics <- pdf_text("my_valentine_roy_edwin_williams.pdf") %>% read_lines() %>% 
-  paste(collapse = " ")
+  paste(collapse = " ") %>% 
+  str_remove_all(pattern = ",")
 ```
 
 ```{r}
-pdf_data <- tibble(songtitle = 'my valentine',
+data <- tibble(songtitle = 'my valentine',
                    artist= 'Roy Edwin Williams',
                    tempo = '130 BPM',
                    key = 'C Major',
                    text=my_valentine_lyrics)
 
-write_csv(pdf_data, "D:/AU_Cog_Sci/3_semester/cognitive_neuroscience_of_music_and_language/cognitive_neuroscience_of_music_and_language/Exam/lyric_data.csv")
+
+write_csv(data, "D:/AU_Cog_Sci/3_semester/cognitive_neuroscience_of_music_and_language/cognitive_neuroscience_of_music_and_language/Exam/lyric_data.csv")
 ```
 
