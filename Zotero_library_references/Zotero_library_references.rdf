@@ -1,0 +1,2275 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Article rdf:about="https://journals.lww.com/neuroreport/Fulltext/2008/05070/Music_in_minor_activates_limbic_structures__a.2.aspx">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0959-4965"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Green</foaf:surname>
+                        <foaf:givenName>Anders C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bærentsen</foaf:surname>
+                        <foaf:givenName>Klaus B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stødkilde-Jørgensen</foaf:surname>
+                        <foaf:givenName>Hans</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wallentin</foaf:surname>
+                        <foaf:givenName>Mikkel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roepstorff</foaf:surname>
+                        <foaf:givenName>Andreas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vuust</foaf:surname>
+                        <foaf:givenName>Peter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_387"/>
+        <dc:title>Music in minor activates limbic structures: a relationship with dissonance?</dc:title>
+        <dcterms:abstract>Using functional magnetic resonance imaging, we contrasted major and minor mode melodies controlled for liking to study the neural basis of musical mode perception. To examine the influence of the larger dissonance in minor melodies on neural activation differences, we further introduced a strongly dissonant stimulus, in the form of a chromatic scale. Minor mode melodies were evaluated as sadder than major melodies, and in comparison they caused increased activity in limbic structures, namely left parahippocampal gyrus, bilateral ventral anterior cingulate, and in left medial prefrontal cortex. Dissonance explained some, but not all, of the heightened activity in the limbic structures when listening to minor mode music.</dcterms:abstract>
+        <dc:date>May 7, 2008</dc:date>
+        <z:language>en-US</z:language>
+        <z:shortTitle>Music in minor activates limbic structures</z:shortTitle>
+        <z:libraryCatalog>journals.lww.com</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.lww.com/neuroreport/Fulltext/2008/05070/Music_in_minor_activates_limbic_structures__a.2.aspx</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-01-28 14:51:06</dcterms:dateSubmitted>
+        <bib:pages>711–715</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0959-4965">
+        <prism:volume>19</prism:volume>
+        <dc:title>NeuroReport</dc:title>
+        <dc:identifier>DOI 10.1097/WNR.0b013e3282fd0dd8</dc:identifier>
+        <prism:number>7</prism:number>
+        <dc:identifier>ISSN 0959-4965</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_387">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.lww.com/neuroreport/Fulltext/2008/05070/Music_in_minor_activates_limbic_structures__a.2.aspx</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-01-28 14:51:17</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.youtube.com/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Thomasen</foaf:surname>
+                        <foaf:givenName>Manuela</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_396"/>
+        <link:link rdf:resource="#item_397"/>
+        <link:link rdf:resource="#item_395"/>
+        <link:link rdf:resource="#item_394"/>
+        <link:link rdf:resource="#item_393"/>
+        <link:link rdf:resource="#item_398"/>
+        <link:link rdf:resource="#item_391"/>
+        <link:link rdf:resource="#item_392"/>
+        <link:link rdf:resource="#item_390"/>
+        <dc:title>cog com exam - YouTube</dc:title>
+        <dcterms:abstract>Nyd de videoer og den musik, du holder af, upload originalt indhold, og del det hele med venner, familie og verden på YouTube.</dcterms:abstract>
+        <z:language>da-DK</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.youtube.com/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-22 12:37:17</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_396">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Eventually, Arch Tremors</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.youtube.com/watch?v=r_ZARdOlerM&amp;list=PLy88w2r7OwFcAkqHCeyc1NZJYMfRgOJi7&amp;index=2</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-22 12:40:51</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_397">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Guardian eyes, Particle House</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.youtube.com/watch?v=ynytX85Uumo&amp;list=PLy88w2r7OwFcAkqHCeyc1NZJYMfRgOJi7&amp;index=1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-22 12:40:07</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_395">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>It ain't the way i want it, Lars Lowe</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.youtube.com/watch?v=2VwnipLyC7E&amp;list=PLy88w2r7OwFcAkqHCeyc1NZJYMfRgOJi7&amp;index=3</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-22 12:41:26</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_394">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Monsoons, Johannes Bornlöf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.youtube.com/watch?v=2HlvIY5EWyY&amp;list=PLy88w2r7OwFcAkqHCeyc1NZJYMfRgOJi7&amp;index=4</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-22 12:41:54</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_393">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Obssesions, Can't find Ollie</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.youtube.com/watch?v=ICGAhYa4XKc&amp;list=PLy88w2r7OwFcAkqHCeyc1NZJYMfRgOJi7&amp;index=5</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-22 12:42:16</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_398">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.youtube.com/playlist?list=PLy88w2r7OwFcAkqHCeyc1NZJYMfRgOJi7</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-22 12:37:31</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_391">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Summer city, Chasing Madison</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.youtube.com/watch?v=Ud6I0ZeWC1A&amp;list=PLy88w2r7OwFcAkqHCeyc1NZJYMfRgOJi7&amp;index=7</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-22 12:43:03</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_392">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>we need to calm down, Particle House</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.youtube.com/watch?v=ltWsZZrIT9c&amp;list=PLy88w2r7OwFcAkqHCeyc1NZJYMfRgOJi7&amp;index=6</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-22 12:42:41</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_390">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>you drift away, Gemma Skies</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.youtube.com/watch?v=FtO1YHGlGDI&amp;list=PLy88w2r7OwFcAkqHCeyc1NZJYMfRgOJi7&amp;index=8</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-22 12:43:37</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1093/cercor/bhaa373">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1047-3211"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Putkinen</foaf:surname>
+                        <foaf:givenName>Vesa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nazari-Farsani</foaf:surname>
+                        <foaf:givenName>Sanaz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Seppälä</foaf:surname>
+                        <foaf:givenName>Kerttu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Karjalainen</foaf:surname>
+                        <foaf:givenName>Tomi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sun</foaf:surname>
+                        <foaf:givenName>Lihua</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Karlsson</foaf:surname>
+                        <foaf:givenName>Henry K</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hudson</foaf:surname>
+                        <foaf:givenName>Matthew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Heikkilä</foaf:surname>
+                        <foaf:givenName>Timo T</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hirvonen</foaf:surname>
+                        <foaf:givenName>Jussi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nummenmaa</foaf:surname>
+                        <foaf:givenName>Lauri</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_464"/>
+        <link:link rdf:resource="#item_465"/>
+        <dc:title>Decoding Music-Evoked Emotions in the Auditory and Motor Cortex</dc:title>
+        <dcterms:abstract>Music can induce strong subjective experience of emotions, but it is debated whether these responses engage the same neural circuits as emotions elicited by biologically significant events. We examined the functional neural basis of music-induced emotions in a large sample (n = 102) of subjects who listened to emotionally engaging (happy, sad, fearful, and tender) pieces of instrumental music while their hemodynamic brain activity was measured with functional magnetic resonance imaging (fMRI). Ratings of the four categorical emotions and liking were used to predict hemodynamic responses in general linear model (GLM) analysis of the fMRI data. Multivariate pattern analysis (MVPA) was used to reveal discrete neural signatures of the four categories of music-induced emotions. To map neural circuits governing non-musical emotions, the subjects were scanned while viewing short emotionally evocative film clips. The GLM revealed that most emotions were associated with activity in the auditory, somatosensory, and motor cortices, cingulate gyrus, insula, and precuneus. Fear and liking also engaged the amygdala. In contrast, the film clips strongly activated limbic and cortical regions implicated in emotional processing. MVPA revealed that activity in the auditory cortex and primary motor cortices reliably discriminated the emotion categories. Our results indicate that different music-induced basic emotions have distinct representations in regions supporting auditory processing, motor control, and interoception but do not strongly rely on limbic and medial prefrontal regions critical for emotions with survival value.</dcterms:abstract>
+        <dc:date>2021-05-01</dc:date>
+        <z:libraryCatalog>Silverchair</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1093/cercor/bhaa373</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-25 06:41:17</dcterms:dateSubmitted>
+        <bib:pages>2549-2560</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1047-3211">
+        <prism:volume>31</prism:volume>
+        <dc:title>Cerebral Cortex</dc:title>
+        <dc:identifier>DOI 10.1093/cercor/bhaa373</dc:identifier>
+        <prism:number>5</prism:number>
+        <dcterms:alternative>Cerebral Cortex</dcterms:alternative>
+        <dc:identifier>ISSN 1047-3211</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_464">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/464/Putkinen et al. - 2021 - Decoding Music-Evoked Emotions in the Auditory and.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/cercor/article-pdf/31/5/2549/36841240/bhaa373.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-25 06:41:22</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_465">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/465/6046263.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/cercor/article/31/5/2549/6046263</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-25 06:41:25</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.tandfonline.com/doi/abs/10.1080/02699930701438145">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0269-9931,%201464-0600"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hunter</foaf:surname>
+                        <foaf:givenName>Patrick G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schellenberg</foaf:surname>
+                        <foaf:givenName>E. Glenn</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schimmack</foaf:surname>
+                        <foaf:givenName>Ulrich</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_475"/>
+        <dc:title>Mixed affective responses to music with conflicting cues</dc:title>
+        <dc:date>02/2008</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.tandfonline.com/doi/abs/10.1080/02699930701438145</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-31 11:51:59</dcterms:dateSubmitted>
+        <bib:pages>327-352</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0269-9931,%201464-0600">
+        <prism:volume>22</prism:volume>
+        <dc:title>Cognition &amp; Emotion</dc:title>
+        <dc:identifier>DOI 10.1080/02699930701438145</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>Cognition &amp; Emotion</dcterms:alternative>
+        <dc:identifier>ISSN 0269-9931, 1464-0600</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_475">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/475/Hunter et al. - 2008 - Mixed affective responses to music with conflictin.pdf"/>
+        <dc:title>Hunter et al. - 2008 - Mixed affective responses to music with conflictin.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/pdf/10.1080/02699930701438145</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-31 11:51:55</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1177/0305735607082623">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0305-7356"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kreutz</foaf:surname>
+                        <foaf:givenName>Gunter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ott</foaf:surname>
+                        <foaf:givenName>Ulrich</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Teichmann</foaf:surname>
+                        <foaf:givenName>Daniel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Osawa</foaf:surname>
+                        <foaf:givenName>Patrick</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vaitl</foaf:surname>
+                        <foaf:givenName>Dieter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_478"/>
+        <dc:title>Using music to induce emotions: Influences of musical preference and                 absorption</dc:title>
+        <dcterms:abstract>The present research addresses the induction of emotion during music listening in adults using categorical and dimensional theories of emotion as background. It further explores the influences of musical preference and absorption trait on induced emotion. Twenty-five excerpts of classical music representing `happiness', `sadness', `fear', `anger' and `peace' were presented individually to 99 adult participants. Participants rated the intensity of felt emotions as well as the pleasantness and arousal induced by each excerpt. Mean intensity ratings of target emotions were highest for 20 out of 25 excerpts. Pleasantness and arousal ratings led to three main clusters within the two-dimensional circumplex space. Preference for classical music significantly influenced specificity and intensity ratings across categories. Absorption trait significantly correlated with arousal ratings only. In sum, instrumental music appears effective for the induction of basic emotions in adult listeners. However, careful screening of participants in terms of their musical preferences should be mandatory.</dcterms:abstract>
+        <dc:date>2008-01-01</dc:date>
+        <z:shortTitle>Using music to induce emotions</z:shortTitle>
+        <z:libraryCatalog>SAGE Journals</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1177/0305735607082623</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-31 12:33:35</dcterms:dateSubmitted>
+        <dc:description>Publisher: SAGE Publications Ltd</dc:description>
+        <bib:pages>101-126</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0305-7356">
+        <prism:volume>36</prism:volume>
+        <dc:title>Psychology of Music</dc:title>
+        <dc:identifier>DOI 10.1177/0305735607082623</dc:identifier>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 0305-7356</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_478">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/478/Kreutz et al. - 2008 - Using music to induce emotions Influences of musi.pdf"/>
+        <dc:title>SAGE PDF Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.sagepub.com/doi/pdf/10.1177/0305735607082623</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-31 12:33:37</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.tandfonline.com/doi/full/10.1080/02699930302279">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>17</prism:volume>
+                <dc:title>Cognition and Emotion</dc:title>
+                <dc:identifier>DOI 10.1080/02699930302279</dc:identifier>
+                <prism:number>1</prism:number>
+                <dcterms:alternative>Cognition and Emotion</dcterms:alternative>
+                <dc:identifier>ISSN 0269-9931, 1464-0600</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gagnon</foaf:surname>
+                        <foaf:givenName>Lise</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Peretz</foaf:surname>
+                        <foaf:givenName>Isabelle</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_479"/>
+        <dc:title>Mode and tempo relative contributions to “happy-sad” judgements in equitone melodies</dc:title>
+        <dc:date>01/2003</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/full/10.1080/02699930302279</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-31 12:33:57</dcterms:dateSubmitted>
+        <bib:pages>25-40</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_479">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/479/Gagnon and Peretz - 2003 - Mode and tempo relative contributions to “happy-sa.pdf"/>
+        <dc:title>Gagnon and Peretz - 2003 - Mode and tempo relative contributions to “happy-sa.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/pdf/10.1080/02699930302279</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-31 12:33:54</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3427872/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1749-5016"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mumford</foaf:surname>
+                        <foaf:givenName>Jeanette A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_483"/>
+        <link:link rdf:resource="#item_482"/>
+        <dc:title>A power calculation guide for fMRI studies</dc:title>
+        <dcterms:abstract>In the past, power analyses were not that common for fMRI studies, but recent advances in power calculation techniques and software development are making power analyses much more accessible. As a result, power analyses are more commonly expected in grant applications proposing fMRI studies. Even though the software is somewhat automated, there are important decisions to be made when setting up and carrying out a power analysis. This guide provides tips on carrying out power analyses, including obtaining pilot data, defining a region of interest and other choices to help create reliable power calculations.</dcterms:abstract>
+        <dc:date>2012-8</dc:date>
+        <z:libraryCatalog>PubMed Central</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3427872/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-09 11:38:37</dcterms:dateSubmitted>
+        <dc:description>PMID: 22641837
+PMCID: PMC3427872</dc:description>
+        <bib:pages>738-742</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1749-5016">
+        <prism:volume>7</prism:volume>
+        <dc:title>Social Cognitive and Affective Neuroscience</dc:title>
+        <dc:identifier>DOI 10.1093/scan/nss059</dc:identifier>
+        <prism:number>6</prism:number>
+        <dcterms:alternative>Soc Cogn Affect Neurosci</dcterms:alternative>
+        <dc:identifier>ISSN 1749-5016</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_483">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/483/Mumford - 2012 - A power calculation guide for fMRI studies.pdf"/>
+        <dc:title>PubMed Central Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3427872/pdf/nss059.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-09 11:38:40</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_482">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PubMed Central Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3427872/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-09 11:38:37</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Data rdf:about="#item_491">
+        <z:itemType>computerProgram</z:itemType>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Microsoft</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <prism:edition>2021.1.0.1</prism:edition>
+        <dc:title>Win Movie Maker</dc:title>
+        <dc:date>2021</dc:date>
+    </bib:Data>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0010027721004339">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0010-0277"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mori</foaf:surname>
+                        <foaf:givenName>Kazuma</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_493"/>
+        <link:link rdf:resource="#item_494"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Audio</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Lyric</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Machine learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Music information retrieval</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Natural language processing</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Peak emotion</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Decoding peak emotional responses to music from computational acoustic and lyrical features</dc:title>
+        <dcterms:abstract>Music can evoke strong emotions. Research has suggested that pleasurable chills (shivering) and tears (weeping) are peak emotional responses to music. The present study examines whether computational acoustic and lyrical features can decode chills and tears. The experiment comprises 186 pieces of self-selected music to evoke emotional responses from 54 Japanese participants. Machine learning analysis with L2-norm-regularization regression revealed the decoding accuracy and specified well-defined features. In Study 1, time-series acoustic features significantly decoded emotional chills, tears, and the absence of chills or tears by using information within a few seconds before and after the onset of the three responses. The classification results showed three significant periods, indicating that complex anticipation-resolution mechanisms lead to chills and tears. Evoking chills was particularly associated with rhythm uncertainty, while evoking tears was related to harmony. Violating rhythm expectancy may have been a trigger for chills, while the harmonious overlapping of acoustic spectra may have played a role in evoking tears. In Study 2, acoustic and lyrical features from the entire piece decoded tears but not chill frequency. Mixed emotions stemming from happiness were associated with major chords, while lyric content related to sad farewells can contribute to the prediction of emotional tears, indicating that distinctive emotions in music may evoke a tear response. When considered in tandem with theoretical studies, the violation of rhythm may biologically boost both the pleasure- and fight-related physiological response of chills, whereas tears may be evolutionarily embedded in the social bonding effect of musical harmony and play a unique role in emotional regulation.</dcterms:abstract>
+        <dc:date>2022-05-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0010027721004339</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-08 15:35:12</dcterms:dateSubmitted>
+        <bib:pages>105010</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0010-0277">
+        <prism:volume>222</prism:volume>
+        <dc:title>Cognition</dc:title>
+        <dc:identifier>DOI 10.1016/j.cognition.2021.105010</dc:identifier>
+        <dcterms:alternative>Cognition</dcterms:alternative>
+        <dc:identifier>ISSN 0010-0277</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_493">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/493/Mori - 2022 - Decoding peak emotional responses to music from co.pdf"/>
+        <dc:title>ScienceDirect Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0010027721004339/pdfft?md5=daa7cfd41587fbb589c1cced3ec32aa6&amp;pid=1-s2.0-S0010027721004339-main.pdf&amp;isDTMRedir=Y</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-08 15:35:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_494">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/494/S0010027721004339.html"/>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0010027721004339</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-08 15:35:18</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_495">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Thomasen</foaf:surname>
+                        <foaf:givenName>Manuela</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_496"/>
+        <dc:title>The emotional content in music perception</dc:title>
+        <dcterms:abstract>The pleasurable feelings you experience when listening to music can be based on your music preference, 
+how good you are at predicting where the music is going and the alignment we make with the emotional 
+state in the musical piece. By getting a better understanding on how we respond to music and which 
+musical characteristics that evoke emotions, we can find ways to apply it as a tool in different areas. To 
+look at the relationship between the emotional response of the listener and the songs mode, a study was 
+conducted. Participants (N=33) listened to 8 song clips in major or minor mode and with or without 
+lyrics. After each clip participants reported om their emotional response on a valence scale, ranging 
+from negative (-5) to positive (+5). Trough linear mixed effects analysis it was found that responses to 
+songs in major mode was rated more positive compared to songs in minor mode, the difference was 
+significant. Further an additive effect of lyrics was found, for both songs in minor and major mode the 
+emotional response to songs with lyrics were more positive compared to songs without lyrics. For a 
+more reliable results regarding lyrics in the songs, you could look into how the sentiment score of the 
+lyrics effect the emotional response.</dcterms:abstract>
+        <dc:date>10-02-2022</dc:date>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_496">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/496/Thomasen - 2022 - The emotional content in music perception.pdf"/>
+        <dc:title>Thomasen - 2022 - The emotional content in music perception.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_497">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>CreateSpace</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Van Rossum</foaf:surname>
+                        <foaf:givenName>Guido</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Drake</foaf:surname>
+                        <foaf:givenName>Fred L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Python 3 Reference Manual</dc:title>
+        <dc:date>2009</dc:date>
+    </bib:Book>
+    <bib:Article rdf:about="https://ojs.aaai.org/index.php/ICWSM/article/view/14550">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2334-0770"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hutto</foaf:surname>
+                        <foaf:givenName>C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gilbert</foaf:surname>
+                        <foaf:givenName>Eric</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_500"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Human Centered Computing</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>VADER: A Parsimonious Rule-Based Model for Sentiment Analysis of Social Media Text</dc:title>
+        <dcterms:abstract>The inherent nature of social media content poses serious challenges to practical applications of sentiment analysis. We present VADER, a simple rule-based model for general sentiment analysis, and compare its effectiveness to eleven typical state-of-practice benchmarks including LIWC, ANEW, the General Inquirer, SentiWordNet, and machine learning oriented techniques relying on Naive Bayes, Maximum Entropy, and Support Vector Machine (SVM) algorithms. Using a combination of qualitative and quantitative methods, we first construct and empirically validate a gold-standard list of lexical features (along with their associated sentiment intensity measures) which are specifically attuned to sentiment in microblog-like contexts. We then combine these lexical features with consideration for five general rules that embody grammatical and syntactical conventions for expressing and emphasizing sentiment intensity. Interestingly, using our parsimonious rule-based model to assess the sentiment of tweets, we find that VADER outperforms individual human raters (F1 Classification Accuracy = 0.96 and 0.84, respectively), and generalizes more favorably across contexts than any of our benchmarks.</dcterms:abstract>
+        <dc:date>2014-05-16</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>VADER</z:shortTitle>
+        <z:libraryCatalog>ojs.aaai.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ojs.aaai.org/index.php/ICWSM/article/view/14550</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-09 14:48:39</dcterms:dateSubmitted>
+        <dc:rights>Copyright (c) 2021 Proceedings of the International AAAI Conference on Web and Social Media</dc:rights>
+        <dc:description>Number: 1</dc:description>
+        <bib:pages>216-225</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2334-0770">
+        <prism:volume>8</prism:volume>
+        <dc:title>Proceedings of the International AAAI Conference on Web and Social Media</dc:title>
+        <dc:identifier>DOI 10.1609/icwsm.v8i1.14550</dc:identifier>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 2334-0770</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_500">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/500/Hutto and Gilbert - 2014 - VADER A Parsimonious Rule-Based Model for Sentime.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ojs.aaai.org/index.php/ICWSM/article/download/14550/14399</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-09 14:48:46</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0165027002001218">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0165-0270"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Desmond</foaf:surname>
+                        <foaf:givenName>John E</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Glover</foaf:surname>
+                        <foaf:givenName>Gary H</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_504"/>
+        <link:link rdf:resource="#item_505"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>fMRI</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Neuroimaging</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Power</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Sample size</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Statistics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Estimating sample size in functional MRI (fMRI) neuroimaging studies: Statistical power analyses</dc:title>
+        <dcterms:abstract>Estimation of statistical power in functional MRI (fMRI) requires knowledge of the expected percent signal change between two conditions as well as estimates of the variability in percent signal change. Variability can be divided into intra-subject variability, reflecting noise within the time series, and inter-subject variability, reflecting subject-to-subject differences in activation. The purpose of this study was to obtain estimates of percent signal change and the two sources of variability from fMRI data, and then use these parameter estimates in simulation experiments in order to generate power curves. Of interest from these simulations were conclusions concerning how many subjects are needed and how many time points within a scan are optimal in an fMRI study of cognitive function. Intra-subject variability was estimated from resting conditions, and inter-subject variability and percent signal change were estimated from verbal working memory data. Simulations derived from these parameters illustrate how percent signal change, intra- and inter-subject variability, and number of time points affect power. An empirical test experiment, using fMRI data acquired during somatosensory stimulation, showed good correspondence between the simulation-based power predictions and the power observed within somatosensory regions of interest. Our analyses suggested that for a liberal threshold of 0.05, about 12 subjects were required to achieve 80% power at the single voxel level for typical activations. At more realistic thresholds, that approach those used after correcting for multiple comparisons, the number of subjects doubled to maintain this level of power.</dcterms:abstract>
+        <dc:date>2002-08-30</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Estimating sample size in functional MRI (fMRI) neuroimaging studies</z:shortTitle>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0165027002001218</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-27 11:12:43</dcterms:dateSubmitted>
+        <bib:pages>115-128</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0165-0270">
+        <prism:volume>118</prism:volume>
+        <dc:title>Journal of Neuroscience Methods</dc:title>
+        <dc:identifier>DOI 10.1016/S0165-0270(02)00121-8</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>Journal of Neuroscience Methods</dcterms:alternative>
+        <dc:identifier>ISSN 0165-0270</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_504">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/504/Desmond and Glover - 2002 - Estimating sample size in functional MRI (fMRI) ne.pdf"/>
+        <dc:title>ScienceDirect Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0165027002001218/pdfft?md5=0b69016506672b784c164795a0b22341&amp;pid=1-s2.0-S0165027002001218-main.pdf&amp;isDTMRedir=Y</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-27 11:12:46</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_505">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/505/S0165027002001218.html"/>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0165027002001218</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-27 11:12:50</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://hellomusictheory.com/learn/tempo/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chase</foaf:surname>
+                        <foaf:givenName>Samuel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_509"/>
+        <dc:title>What Is Tempo In Music? A Complete Guide | HelloMusicTheory</dc:title>
+        <dcterms:abstract>Every piece of music you hear has a tempo. On a piece of sheet music, it is almost always found at the top left of the first page, immediately above the</dcterms:abstract>
+        <dc:date>2020-06-15T09:00:14+01:00</dc:date>
+        <z:language>en-GB</z:language>
+        <z:shortTitle>What Is Tempo In Music?</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://hellomusictheory.com/learn/tempo/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-31 10:10:33</dcterms:dateSubmitted>
+        <dc:description>Running Time: 173
+Section: Music Theory</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_509">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/509/tempo.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://hellomusictheory.com/learn/tempo/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-31 10:10:38</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.frontiersin.org/articles/10.3389/fpsyg.2011.00308">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1664-1078"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brattico</foaf:surname>
+                        <foaf:givenName>Elvira</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alluri</foaf:surname>
+                        <foaf:givenName>Vinoo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bogert</foaf:surname>
+                        <foaf:givenName>Brigitte</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jacobsen</foaf:surname>
+                        <foaf:givenName>Thomas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vartiainen</foaf:surname>
+                        <foaf:givenName>Nuutti</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nieminen</foaf:surname>
+                        <foaf:givenName>Sirke</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tervaniemi</foaf:surname>
+                        <foaf:givenName>Mari</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_511"/>
+        <dc:title>A Functional MRI Study of Happy and Sad Emotions in Music with and without Lyrics</dc:title>
+        <dcterms:abstract>Musical emotions, such as happiness and sadness, have been investigated using instrumental music devoid of linguistic content. However, pop and rock, the most common musical genres, utilize lyrics for conveying emotions. Using participants’ self-selected musical excerpts, we studied their behavior and brain responses to elucidate how lyrics interact with musical emotion processing, as reflected by emotion recognition and activation of limbic areas involved in affective experience. We extracted samples from subjects’ selections of sad and happy pieces and sorted them according to the presence of lyrics. Acoustic feature analysis showed that music with lyrics differed from music without lyrics in spectral centroid, a feature related to perceptual brightness, whereas sad music with lyrics did not diverge from happy music without lyrics, indicating the role of other factors in emotion classification. Behavioral ratings revealed that happy music without lyrics induced stronger positive emotions than happy music with lyrics. We also acquired functional magnetic resonance imaging data while subjects performed affective tasks regarding the music. First, using ecological and acoustically variable stimuli, we broadened previous findings about the brain processing of musical emotions and of songs versus instrumental music. Additionally, contrasts between sad music with versus without lyrics recruited the parahippocampal gyrus, the amygdala, the claustrum, the putamen, the precentral gyrus, the medial and inferior frontal gyri (including Broca’s area), and the auditory cortex, while the reverse contrast produced no activations. Happy music without lyrics activated structures of the limbic system and the right pars opercularis of the inferior frontal gyrus, whereas auditory regions alone responded to happy music with lyrics. These findings point to the role of acoustic cues for the experience of happiness in music and to the importance of lyrics for sad musical emotions.</dcterms:abstract>
+        <dc:date>2011</dc:date>
+        <z:libraryCatalog>Frontiers</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.frontiersin.org/articles/10.3389/fpsyg.2011.00308</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-31 10:17:10</dcterms:dateSubmitted>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1664-1078">
+        <prism:volume>2</prism:volume>
+        <dc:title>Frontiers in Psychology</dc:title>
+        <dc:identifier>ISSN 1664-1078</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_511">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/511/Brattico et al. - 2011 - A Functional MRI Study of Happy and Sad Emotions i.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.frontiersin.org/articles/10.3389/fpsyg.2011.00308/pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-31 10:17:13</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://journals.lww.com/neuroreport/Fulltext/2005/12190/Brain_regions_involved_in_the_recognition_of.2.aspx">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>16</prism:volume>
+                <dc:title>NeuroReport</dc:title>
+                <prism:number>18</prism:number>
+                <dc:identifier>ISSN 0959-4965</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Khalfa</foaf:surname>
+                        <foaf:givenName>Stéphanie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schon</foaf:surname>
+                        <foaf:givenName>Daniele</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Anton</foaf:surname>
+                        <foaf:givenName>Jean-Luc</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liégeois-Chauvel</foaf:surname>
+                        <foaf:givenName>Catherine</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_513"/>
+        <dc:title>Brain regions involved in the recognition of happiness and sadness in music</dc:title>
+        <dcterms:abstract>Here, we used functional magnetic resonance imaging to test for the lateralization of the brain regions specifically involved in the recognition of negatively and positively valenced musical emotions. The manipulation of two major musical features (mode and tempo), resulting in the variation of emotional perception along the happiness–sadness axis, was shown to principally involve subcortical and neocortical brain structures, which are known to intervene in emotion processing in other modalities. In particular, the minor mode (sad excerpts) involved the left orbito and mid-dorsolateral frontal cortex, which does not confirm the valence lateralization model. We also show that the recognition of emotions elicited by variations of the two perceptual determinants rely on both common (BA 9) and distinct neural mechanisms.</dcterms:abstract>
+        <dc:date>December 19, 2005</dc:date>
+        <z:language>en-US</z:language>
+        <z:libraryCatalog>journals.lww.com</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.lww.com/neuroreport/Fulltext/2005/12190/Brain_regions_involved_in_the_recognition_of.2.aspx</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-31 10:20:52</dcterms:dateSubmitted>
+        <bib:pages>1981</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_513">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/513/Brain_regions_involved_in_the_recognition_of.2.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.lww.com/neuroreport/Fulltext/2005/12190/Brain_regions_involved_in_the_recognition_of.2.aspx</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-31 10:21:01</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6871455/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1065-9471"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mitterschiffthaler</foaf:surname>
+                        <foaf:givenName>Martina T.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fu</foaf:surname>
+                        <foaf:givenName>Cynthia H.Y.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dalton</foaf:surname>
+                        <foaf:givenName>Jeffrey A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Andrew</foaf:surname>
+                        <foaf:givenName>Christopher M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Williams</foaf:surname>
+                        <foaf:givenName>Steven C.R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_516"/>
+        <link:link rdf:resource="#item_515"/>
+        <dc:title>A functional MRI study of happy and sad affective states induced by classical music</dc:title>
+        <dcterms:abstract>The present study investigated the functional neuroanatomy of transient mood changes in response to Western classical music. In a pilot experiment, 53 healthy volunteers (mean age: 32.0; SD = 9.6) evaluated their emotional responses to 60 classical musical pieces using a visual analogue scale (VAS) ranging from 0 (sad) through 50 (neutral) to 100 (happy). Twenty pieces were found to accurately induce the intended emotional states with good reliability, consisting of 5 happy, 5 sad, and 10 emotionally unevocative, neutral musical pieces. In a subsequent functional magnetic resonance imaging (fMRI) study, the blood oxygenation level dependent (BOLD) signal contrast was measured in response to the mood state induced by each musical stimulus in a separate group of 16 healthy participants (mean age: 29.5; SD = 5.5). Mood state ratings during scanning were made by a VAS, which confirmed the emotional valence of the selected stimuli. Increased BOLD signal contrast during presentation of happy music was found in the ventral and dorsal striatum, anterior cingulate, parahippocampal gyrus, and auditory association areas. With sad music, increased BOLD signal responses were noted in the hippocampus/amygdala and auditory association areas. Presentation of neutral music was associated with increased BOLD signal responses in the insula and auditory association areas. Our findings suggest that an emotion processing network in response to music integrates the ventral and dorsal striatum, areas involved in reward experience and movement; the anterior cingulate, which is important for targeting attention; and medial temporal areas, traditionally found in the appraisal and processing of emotions. Hum Brain Mapp 2007. © 2006 Wiley‐Liss, Inc.</dcterms:abstract>
+        <dc:date>2007-2-08</dc:date>
+        <z:libraryCatalog>PubMed Central</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6871455/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-31 10:21:55</dcterms:dateSubmitted>
+        <dc:description>PMID: 17290372
+PMCID: PMC6871455</dc:description>
+        <bib:pages>1150-1162</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1065-9471">
+        <prism:volume>28</prism:volume>
+        <dc:title>Human Brain Mapping</dc:title>
+        <dc:identifier>DOI 10.1002/hbm.20337</dc:identifier>
+        <prism:number>11</prism:number>
+        <dcterms:alternative>Hum Brain Mapp</dcterms:alternative>
+        <dc:identifier>ISSN 1065-9471</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_516">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/516/Mitterschiffthaler et al. - 2007 - A functional MRI study of happy and sad affective .pdf"/>
+        <dc:title>PubMed Central Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6871455/pdf/HBM-28-1150.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-31 10:22:00</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_515">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PubMed Central Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6871455/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-31 10:21:56</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1460-9568.2007.05314.x">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1460-9568"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wehrle</foaf:surname>
+                        <foaf:givenName>Renate</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kaufmann</foaf:surname>
+                        <foaf:givenName>Christian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wetter</foaf:surname>
+                        <foaf:givenName>Thomas C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Holsboer</foaf:surname>
+                        <foaf:givenName>Florian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Auer</foaf:surname>
+                        <foaf:givenName>Dorothee P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pollmächer</foaf:surname>
+                        <foaf:givenName>Thomas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Czisch</foaf:surname>
+                        <foaf:givenName>Michael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_521"/>
+        <link:link rdf:resource="#item_522"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>functional MRI</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>human</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>limbic system</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>REM sleep</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>thalamocortical network</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Functional microstates within human REM sleep: first evidence from fMRI of a thalamocortical network specific for phasic REM periods</dc:title>
+        <dcterms:abstract>High thalamocortical neuronal activity characterizes both, wakefulness and rapid eye movement (REM) sleep, but apparently this network fulfills other roles than processing external information during REM sleep. To investigate thalamic and cortical reactivity during human REM sleep, we used functional magnetic resonance imaging with simultaneous polysomnographic recordings while applying acoustic stimulation. Our observations indicate two distinct functional substates within general REM sleep. Acoustic stimulation elicited a residual activation of the auditory cortex during tonic REM sleep background without rapid eye movements. By contrast, periods containing bursts of phasic activity such as rapid eye movements appear characterized by a lack of reactivity to sensory stimuli. We report a thalamocortical network including limbic and parahippocampal areas specifically active during phasic REM periods. Thus, REM sleep has to be subdivided into tonic REM sleep with residual alertness, and phasic REM sleep with the brain acting as a functionally isolated and closed intrinsic loop.</dcterms:abstract>
+        <dc:date>2007</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Functional microstates within human REM sleep</z:shortTitle>
+        <z:libraryCatalog>Wiley Online Library</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1460-9568.2007.05314.x</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-31 10:46:15</dcterms:dateSubmitted>
+        <dc:description>_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1460-9568.2007.05314.x</dc:description>
+        <bib:pages>863-871</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1460-9568">
+        <prism:volume>25</prism:volume>
+        <dc:title>European Journal of Neuroscience</dc:title>
+        <dc:identifier>DOI 10.1111/j.1460-9568.2007.05314.x</dc:identifier>
+        <prism:number>3</prism:number>
+        <dc:identifier>ISSN 1460-9568</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_521">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/521/Wehrle et al. - 2007 - Functional microstates within human REM sleep fir.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1460-9568.2007.05314.x</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-31 10:46:16</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_522">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/522/j.1460-9568.2007.05314.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1460-9568.2007.05314.x</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-31 10:46:23</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%291097-0193%281999%297%3A3%3C213%3A%3AAID-HBM5%3E3.0.CO%3B2-N">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1097-0193"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hall</foaf:surname>
+                        <foaf:givenName>Deborah A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Haggard</foaf:surname>
+                        <foaf:givenName>Mark P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Akeroyd</foaf:surname>
+                        <foaf:givenName>Michael A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Palmer</foaf:surname>
+                        <foaf:givenName>Alan R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Summerfield</foaf:surname>
+                        <foaf:givenName>A. Quentin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Elliott</foaf:surname>
+                        <foaf:givenName>Michael R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gurney</foaf:surname>
+                        <foaf:givenName>Elaine M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bowtell</foaf:surname>
+                        <foaf:givenName>Richard W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_524"/>
+        <link:link rdf:resource="#item_525"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>MR signal-to-noise ratio</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>scanner noise interference</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>sparse imaging</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>“sparse” temporal sampling in auditory fMRI</dc:title>
+        <dcterms:abstract>The use of functional magnetic resonance imaging (fMRI) to explore central auditory function may be compromised by the intense bursts of stray acoustic noise produced by the scanner whenever the magnetic resonance signal is read out. We present results evaluating the use of one method to reduce the effect of the scanner noise: “sparse” temporal sampling. Using this technique, single volumes of brain images are acquired at the end of stimulus and baseline conditions. To optimize detection of the activation, images are taken near to the maxima and minima of the hemodynamic response during the experimental cycle. Thus, the effective auditory stimulus for the activation is not masked by the scanner noise. In experiment 1, the course of the hemodynamic response to auditory stimulation was mapped during continuous task performance. The mean peak of the response was at 10.5 sec after stimulus onset, with little further change until stimulus offset. In experiment 2, sparse imaging was used to acquire activation images. Despite the fewer samples with sparse imaging, this method successfully delimited broadly the same regions of activation as conventional continuous imaging. However, the mean percentage MR signal change within the region of interest was greater using sparse imaging. Auditory experiments that use continuous imaging methods may measure activation that is a result of an interaction between the stimulus and task factors (e.g., attentive effort) induced by the intense background noise. We suggest that sparse imaging is advantageous in auditory experiments as it ensures that the obtained activation depends on the stimulus alone. Hum. Brain Mapp. 7:213–223, 1999. © 1999 Wiley-Liss, Inc.</dcterms:abstract>
+        <dc:date>1999</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Wiley Online Library</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%291097-0193%281999%297%3A3%3C213%3A%3AAID-HBM5%3E3.0.CO%3B2-N</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-31 12:16:53</dcterms:dateSubmitted>
+        <dc:description>_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/%28SICI%291097-0193%281999%297%3A3%3C213%3A%3AAID-HBM5%3E3.0.CO%3B2-N</dc:description>
+        <bib:pages>213-223</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1097-0193">
+        <prism:volume>7</prism:volume>
+        <dc:title>Human Brain Mapping</dc:title>
+        <dc:identifier>DOI 10.1002/(SICI)1097-0193(1999)7:3&lt;213::AID-HBM5&gt;3.0.CO;2-N</dc:identifier>
+        <prism:number>3</prism:number>
+        <dc:identifier>ISSN 1097-0193</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_524">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/524/Hall et al. - 1999 - “sparse” temporal sampling in auditory fMRI.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/%28SICI%291097-0193%281999%297%3A3%3C213%3A%3AAID-HBM5%3E3.0.CO%3B2-N</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-31 12:16:54</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_525">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/525/(SICI)1097-0193(1999)73213AID-HBM53.0.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/pdf/10.1002/%28SICI%291097-0193%281999%297%3A3%3C213%3A%3AAID-HBM5%3E3.0.CO%3B2-N</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-31 12:17:00</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1007/s00117-003-0917-4">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1432-2102"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wüstenberg</foaf:surname>
+                        <foaf:givenName>T.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jordan</foaf:surname>
+                        <foaf:givenName>K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Giesel</foaf:surname>
+                        <foaf:givenName>F. L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Villringer</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_527"/>
+        <dc:title>Physiologische und technische Grenzen der funktionellen Magnetresonanztomographie und die damit verbundenen Konsequenzen für die klinische Anwendung</dc:title>
+        <dcterms:abstract>Die funktionelle Magnetresonanztomographie (fMRT) ist eines der wichtigsten Verfahren der funktionellen Neuroanatomie. Aufbauend auf einer kurzen Darstellung des aktuellen Wissensstands bzgl. des Zusammenhangs zwischen lokaler neuronaler Aktivität und hämodynamischer Reaktion werden ausgewählte Möglichkeiten und Grenzen des Verfahrens für die klinische Anwendung diskutiert. Der Schwerpunkt liegt dabei auf der Darstellung der derzeitigen methodischen und technischen Einschränkungen hinsichtlich einer fMRT-basierten Detektion und Lokalisierung neuronaler Aktivität. Es werden die Hauptfehlerquellen und ihre Auswirkungen auf die Reliabilität und Validität des Verfahrens erläutert und aktuelle Lösungsansätze diskutiert. Abschließend erfolgt eine Bewertung der aktuellen klinischen Relevanz funktioneller MR-Diagnosemethoden.</dcterms:abstract>
+        <dc:date>2003-07-01</dc:date>
+        <z:language>de</z:language>
+        <z:libraryCatalog>Springer Link</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1007/s00117-003-0917-4</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-31 12:36:20</dcterms:dateSubmitted>
+        <bib:pages>552-557</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1432-2102">
+        <prism:volume>43</prism:volume>
+        <dc:title>Der Radiologe</dc:title>
+        <dc:identifier>DOI 10.1007/s00117-003-0917-4</dc:identifier>
+        <prism:number>7</prism:number>
+        <dcterms:alternative>Radiologe</dcterms:alternative>
+        <dc:identifier>ISSN 1432-2102</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_527">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/527/Wüstenberg et al. - 2003 - Physiologische und technische Grenzen der funktion.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/content/pdf/10.1007%2Fs00117-003-0917-4.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-31 12:36:22</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-9004.2012.00434.x">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1751-9004"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rentfrow</foaf:surname>
+                        <foaf:givenName>Peter J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_529"/>
+        <dc:title>The Role of Music in Everyday Life: Current Directions in the Social Psychology of Music</dc:title>
+        <dcterms:abstract>Music is a crucial element of everyday life. People spend hours listening to it and billions of dollars buying it. Yet despite the pervasiveness of music, mainstream social-personality psychology has hardly given any attention to this universal social phenomenon. Why is music important to people? What role does music play in everyday life? This article reviews research in fields outside mainstream psychology concerned with the social and psychological factors that influence how people experience and use music in their daily lives. The research in this area shows that music can have considerable effects on cognition, emotion, and behavior. It also indicates that people use music to serve various functions, from emotion regulation to self-expression to social bonding. Research in this emerging field reveals how social-personality psychology can inform our understanding of music, and in doing so it highlights the real-world relevance of mainstream theory and research.</dcterms:abstract>
+        <dc:date>2012</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>The Role of Music in Everyday Life</z:shortTitle>
+        <z:libraryCatalog>Wiley Online Library</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-9004.2012.00434.x</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-02-01 06:20:29</dcterms:dateSubmitted>
+        <dc:description>_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1751-9004.2012.00434.x</dc:description>
+        <bib:pages>402-416</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1751-9004">
+        <prism:volume>6</prism:volume>
+        <dc:title>Social and Personality Psychology Compass</dc:title>
+        <dc:identifier>DOI 10.1111/j.1751-9004.2012.00434.x</dc:identifier>
+        <prism:number>5</prism:number>
+        <dc:identifier>ISSN 1751-9004</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_529">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/529/Rentfrow - 2012 - The Role of Music in Everyday Life Current Direct.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1751-9004.2012.00434.x</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-02-01 06:20:32</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://online.ucpress.edu/mp/article/22/1/41/62190/Uses-of-Music-in-Everyday-Life">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0730-7829,%201533-8312"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>North</foaf:surname>
+                        <foaf:givenName>Adrian C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hargreaves</foaf:surname>
+                        <foaf:givenName>David J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hargreaves</foaf:surname>
+                        <foaf:givenName>Jon J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_530"/>
+        <dc:title>Uses of Music in Everyday Life</dc:title>
+        <dcterms:abstract>The value of music in people's everyday lives depends on the uses they make of it and the degree to which they engage with it, which are in turn dependent on the contexts in which they hear it. Very few studies have investigated people's experiences of music in naturalistic, everyday circumstances, and this exploratory study provides some initial normative data on who people listen with, what they listen to (and what their emotional responses to this music are), when they listen, where they listen, and why they listen. A total of 346 people who owned a mobile phone were sent one text message per day for 14 days. On receiving this message, participants were required to complete a questionnaire about any music they could hear, or had heard since their previous message. Responses indicated a high compliance rate; a high incidence of exposure to music; that the greatest number of musical episodes occurred while participants were on their own; that pop music was heard most frequently; that liking for the music varied depending on who the participant was with, where they were, and whether they had chosen to be able to hear music; that music was usually experienced during the course of some activity other than deliberate music listening; that exposure to music occurred most frequently in the evening, particularly between 10 pm and 11 pm, and on weekends; that music was heard most frequently at home, with only a small number of incidences occurring in public places; that the importance of several functions of music varied according to temporal factors, the place where the music was heard, and the person or people the participant was with. Further research should include participants from a greater range of sociodemographic backgrounds and should develop context-specific theoretical explanations of the different ways in which people use music as a resource.</dcterms:abstract>
+        <dc:date>2004-09-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://online.ucpress.edu/mp/article/22/1/41/62190/Uses-of-Music-in-Everyday-Life</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-02-01 06:28:00</dcterms:dateSubmitted>
+        <bib:pages>41-77</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0730-7829,%201533-8312">
+        <prism:volume>22</prism:volume>
+        <dc:title>Music Perception</dc:title>
+        <dc:identifier>DOI 10.1525/mp.2004.22.1.41</dc:identifier>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 0730-7829, 1533-8312</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_530">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/530/North et al. - 2004 - Uses of Music in Everyday Life.pdf"/>
+        <dc:title>North et al. - 2004 - Uses of Music in Everyday Life.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://watermark.silverchair.com/mp_2004_22_1_41.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAywwggMoBgkqhkiG9w0BBwagggMZMIIDFQIBADCCAw4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMFNOqmeDYvfJT06UpAgEQgIIC33RR1e0MEHIYMaWACTAqWc5GL_3iAxp_1FmMjg1qqxJQwMx5IS72_I0u1J6aHb0MZE8FDlGkfkSMwx8YfLxEWJOjlTrEcUEc5ggHRnjNKyzL3l9o0PKr_Ex7BLISOcHh7ZkMF_PhwxdIfkQVm3WPxnqTKjRszTdHo19i1QDlvKp1lXrDFN4wsYObMh0wPV4x4yXOaboJjfxAFqw4e-p-QDGe0dP-UquTyYVpwPBh7_N5F3MZbED4d-h2ewl-D3FXJm6PJrFLuPWAjwxAIln5QgcibZKQCQ5exrKPsHUQ8HiWY-RhGVpLvR_Ao2vQts-ZMgr0MHG0jvZFSajfsz7W5RAXO2xAB8RU6npfHJobgk7kUMIRB7NQTjSfusST3aRhGkrkTGJtkoVHZwdBmNDdeR27tijjfSghvuSCXwT8NZLjCxmf3QdIl7K2rxHa4FIkX6f4JZh9MZSogPFysqrinVT2dGfoVZpQFzrsZa8BouiuegTZloV7t5qcSNPZqTXIHykD_rnLmLc1KctRkuR5KSCrJMp_BWTRWBDYKcPMhW2lcMNZd_eXKBB5XOG_Hbr8uLEagtqju46QAzIiLCwCeO-vQpE-7BpLrUjsYJ-ZG18TM5MlMEp1kLIZ-3VQqD-XqgGiESYFmSujEdfjYYXus-vh0Zb8Qy6n1B-uRy1L7-Gcb9ZNpFS6ES3qdGsEPT9oqPL_FGggFLVgeKSXr0m-6Rmq_yDz6Ibdx7wMT7ROYgVVwHkW-AsyXsKDMLP-sUCukcYtvufID8FVGC-N4MI4waNblxIvOt5eyUYNF0wg-wblrGBVmygtmGR41T9pZE1x9I1Zd5dGoybwJ_VgEDPN3Rt_yD8OdxcEvdCzy9LRroajJeNs79y7t561_-45hMn4geDTWlr0Zf3IHVqAmOYKkHls12ubuukeC-1B7Xwi3Gm3I6Ip3cCxleXoE2e7LP9Ukr1VczOHM1p2qlsU0luQrA</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-02-01 06:27:56</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-59593-500-7">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-59593-500-7</dc:identifier>
+                <dc:title>Proceedings of the 1st ACM international workshop on Human-centered multimedia</dc:title>
+                <dc:identifier>DOI 10.1145/1178745.1178754</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                        <vcard:locality>Santa Barbara California USA</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>ACM</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reddy</foaf:surname>
+                        <foaf:givenName>Sasank</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mascia</foaf:surname>
+                        <foaf:givenName>Jeff</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_532"/>
+        <dc:title>Lifetrak: music in tune with your life</dc:title>
+        <dcterms:abstract>Advances in sensing technology and wider availability of network services is beckoning the use of context-awareness in ubiquitous computing applications. One region in which these technologies can play a major role is in the area of entertainment. Particularly, context-awareness can be used to provide higher quality interaction between humans and the media they are interacting with. We propose a music player, Lifetrak, that is in tune with a person’s life by using a context-sensitive music engine to drive what music is played. This context engine is inﬂuenced by (i) the location of the user, (ii) the time of operation, (iii) the velocity of the user, and (iv) urban environment information such as traﬃc, weather, and sound modalities. Furthermore, we adjust the context engine by implementing a learning model that is based on user feedback on whether a certain song is appropriate for a particular context. Also, we introduce the idea of a context equalizer that adjusts how much a certain sensing modality aﬀects what song is chosen. Since the music player will be implemented on a mobile device, there is a strong focus on creating a user interface that can be manipulated by users on the go. The goal of Lifetrak is to liberate a user from having to consciously specify the music that they want to play. Instead, Lifetrak intends to create a music experience for the user that is in rhythm with themselves and the space they reside in.</dcterms:abstract>
+        <dc:date>2006-10-27</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Lifetrak</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dl.acm.org/doi/10.1145/1178745.1178754</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-02-01 06:29:29</dcterms:dateSubmitted>
+        <bib:pages>25-34</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>MM06: The 14th ACM International Conference on Multimedia 2006</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_532">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/532/Reddy and Mascia - 2006 - Lifetrak music in tune with your life.pdf"/>
+        <dc:title>Reddy and Mascia - 2006 - Lifetrak music in tune with your life.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dl.acm.org/doi/pdf/10.1145/1178745.1178754?casa_token=NLdgMS8Y_VAAAAAA:r8aiqSg8xuVOoQ_j5BxwS8BrQSn2gR2xFNtUDnHEo0DmuSiGMuFdllAB5_9EU3JoAmpdw054r810-Q</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-02-01 06:29:25</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-0-19-875342-1">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Oxford University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Juslin</foaf:surname>
+                        <foaf:givenName>Patrik N.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_535"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Music / General</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Psychology / Cognitive Neuroscience &amp; Cognitive Neuropsychology</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Psychology / Cognitive Psychology &amp; Cognition</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Musical Emotions Explained: Unlocking the Secrets of Musical Affect</dc:title>
+        <dcterms:abstract>Can music really arouse emotions? If so, what emotions, and how? Why do listeners respond with different emotions to the same piece of music? Are emotions to music different from other emotions? Why do we respond to fictional events in art as if they were real, even though we know they're not? What is it that makes a performance of music emotionally expressive? Based on ground-breaking research, Musical Emotions Explained explores how music expresses and arouses emotions, and how it becomes an object of aesthetic judgments. Within the book, Juslin demonstrates how psychological mechanisms from our ancient past engage with meanings in music at multiple levels of the brain to evoke a broad variety of affective states - from startle responses to profound aesthetic emotions, and explores why these mechanisms respond to music? Written by one of the leading researchers in the field, the book is richly illustrated with music examples from everyday life, and explains with clarity and rigour the manifold ways in which music may engage our emotions, in a style sufficiently engaging for lay readers, yet comprehensive and novel enough for specialists.</dcterms:abstract>
+        <dc:date>2019-04-02</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Musical Emotions Explained</z:shortTitle>
+        <z:libraryCatalog>Google Books</z:libraryCatalog>
+        <dc:description>Google-Books-ID: OxGTDwAAQBAJ</dc:description>
+        <dc:identifier>ISBN 978-0-19-875342-1</dc:identifier>
+        <z:numPages>625</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_535">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Google Books Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://books.google.dk/books?id=OxGTDwAAQBAJ</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-02-01 06:40:33</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1177/0305735613496860">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>43</prism:volume>
+                <dc:title>Psychology of Music</dc:title>
+                <dc:identifier>DOI 10.1177/0305735613496860</dc:identifier>
+                <prism:number>2</prism:number>
+                <dc:identifier>ISSN 0305-7356</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Krause</foaf:surname>
+                        <foaf:givenName>Amanda E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>North</foaf:surname>
+                        <foaf:givenName>Adrian C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hewitt</foaf:surname>
+                        <foaf:givenName>Lauren Y.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_537"/>
+        <dc:title>Music-listening in everyday life: Devices and choice</dc:title>
+        <dcterms:abstract>Utilizing the Experience Sampling Method, this research investigated how individuals encounter music in everyday life. Responding to two text messages sent at random times between 8:00 and 23:00 daily for one week, 177 participants completed self-reports online regarding their experience with any music heard within a two-hour period prior to receipt of the message. Overall, the radio, mobile MP3 players, and computers featured prominently. Detailed analyses revealed significant patterns in device usage based on time of day; ratings of the music in terms of choice, liking, arousal, and attention; mood; and the perceived consequences of the music. While feeling lethargic associated with recorded music broadcasted in public, in contrast personal music collections promoted contentment. Similarly, devices allowing for personal input were met with positive consequences, like motivation. The current findings imply that the greater control that technology affords leads to complex patterns of everyday music usage, and that listeners are active consumers rather than passive listeners.</dcterms:abstract>
+        <dc:date>2015-03-01</dc:date>
+        <z:shortTitle>Music-listening in everyday life</z:shortTitle>
+        <z:libraryCatalog>SAGE Journals</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1177/0305735613496860</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-02-01 06:44:58</dcterms:dateSubmitted>
+        <dc:description>Publisher: SAGE Publications Ltd</dc:description>
+        <bib:pages>155-170</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_537">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/537/Krause et al. - 2015 - Music-listening in everyday life Devices and choi.pdf"/>
+        <dc:title>SAGE PDF Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.sagepub.com/doi/pdf/10.1177/0305735613496860</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-02-01 06:45:00</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="urn:isbn:978-0-19-967000-0">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+               <dc:identifier>ISBN 978-0-19-967000-0</dc:identifier>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brattico</foaf:surname>
+                        <foaf:givenName>Elvira</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_539"/>
+        <dc:title>From pleasure to liking and back: Bottom-up and top-down neural routes to the aesthetic enjoyment of music</dc:title>
+        <dc:date>2015-06-01</dc:date>
+        <z:shortTitle>From pleasure to liking and back</z:shortTitle>
+        <z:libraryCatalog>ResearchGate</z:libraryCatalog>
+        <dc:description>DOI: 10.1093/acprof:oso/9780199670000.003.0015</dc:description>
+        <bib:pages>303-318</bib:pages>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_539">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ResearchGate Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/profile/Elvira-Brattico/publication/299916446_From_pleasure_to_liking_and_back_Bottom-up_and_top-down_neural_routes_to_the_aesthetic_enjoyment_of_music/links/574d566e08ae8bc5d15a6ccf/From-pleasure-to-liking-and-back-Bottom-up-and-top-down-neural-routes-to-the-aesthetic-enjoyment-of-music.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-02-01 06:52:34</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.sciencedirect.com/topics/psychology/core-affect">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schutz</foaf:surname>
+                        <foaf:givenName>P. A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lynde</foaf:surname>
+                        <foaf:givenName>M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_541"/>
+        <dc:title>Core Affect - an overview | ScienceDirect Topics</dc:title>
+        <dc:date>2010</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/topics/psychology/core-affect</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-02-01 07:05:24</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_541">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/541/core-affect.html"/>
+        <dc:title>Core Affect - an overview | ScienceDirect Topics</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/topics/psychology/core-affect</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-02-01 07:05:31</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01541">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>6</prism:volume>
+                <dc:title>Frontiers in Psychology</dc:title>
+                <dc:identifier>ISSN 1664-1078</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kawakami</foaf:surname>
+                        <foaf:givenName>Ai</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Katahira</foaf:surname>
+                        <foaf:givenName>Kenji</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_543"/>
+        <dc:title>Influence of trait empathy on the emotion evoked by sad music and on the preference for it</dc:title>
+        <dcterms:abstract>Some people experience pleasant emotion when listening to sad music. Therefore, they can enjoy listening to it. In the current study, we aimed to investigate such apparently paradoxical emotional mechanisms and focused on the influence of individuals’ trait empathy, which has been reported to associate with emotional responses to sad music and a preference for it. Eighty-four elementary school children (42 males and 42 females, mean age 11.9 years) listened to two kinds of sad music and rated their emotional state and liking toward them. In addition, trait empathy was assessed using the Interpersonal Reactivity Index scale, which comprises four sub-components: Empathic Concern, Personal Distress, Perspective Taking, and Fantasy (FS). We conducted a path analysis and tested our proposed model that hypothesized that trait empathy and its sub-components would affect the preference for sad music directly or indirectly, mediated by the emotional response to the sad music. Our findings indicated that FS, a sub-component of trait empathy, was directly associated with liking sad music. Additionally, perspective taking ability, another sub-component of trait empathy, was correlated with the emotional response to sad music. Furthermore, the experience of pleasant emotions contributed to liking sad music.</dcterms:abstract>
+        <dc:date>2015</dc:date>
+        <z:libraryCatalog>Frontiers</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01541</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-02-01 07:14:44</dcterms:dateSubmitted>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_543">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/543/Kawakami and Katahira - 2015 - Influence of trait empathy on the emotion evoked b.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01541/pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-02-01 07:14:46</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://tidsskrift.dk/lwo/article/view/96014">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2446-0591"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Enevoldsen</foaf:surname>
+                        <foaf:givenName>Kenneth C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hansen</foaf:surname>
+                        <foaf:givenName>Lasse</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_545"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>AFINN</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Bag-of-Words</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>News Analysis</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Opinion Mining</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Sentiment Analysis</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Analysing Political Biases in Danish Newspapers Using Sentiment Analysis</dc:title>
+        <dcterms:abstract>Traditionally, the evaluation of political biases in Danish newspapers has been carried out throughhighly subjective methods. The conventional approach has been surveys asking samples of thepopulation to place various newspapers on the political spectrum, coupled with analysing votinghabits of the newspapers’ readers (Hjarvard, 2007). This paper seeks to examine whether it ispossible to use sentiment analysis to objectively assess political biases in Danish newspapers. Byusing the sentiment dictionary AFINN (Nielsen et al., 2011), the mean sentiment scores for 360articles was calculated. The articles were published in the Danish newspapers Berlingske andInformation and were all regarding the political parties Alternativet and Liberal Alliance. Asignificant interaction effect between the parties and newspapers was discovered. This effect wasmainly driven by Information’s coverage of the two parties. Moreover, Berlingske was found topublish a disproportionately greater number of articles concerning Liberal Alliance thanAlternativet. Based on these findings, an integration of sentiment analysis into the evaluation ofbiases in news outlets is proposed. Furthermore, future studies are suggested to construct datasetsfor evaluation of AFINN on news and to utilize web-mining methods to gather greater amounts ofdata in order to analyse more parties and newspapers.</dcterms:abstract>
+        <dc:date>2017-07-07</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>tidsskrift.dk</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://tidsskrift.dk/lwo/article/view/96014</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-02-01 09:08:39</dcterms:dateSubmitted>
+        <dc:rights>Copyright (c) 2017 Author and Journal of Language Works</dc:rights>
+        <dc:description>Number: 2</dc:description>
+        <bib:pages>87-98</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2446-0591">
+        <prism:volume>2</prism:volume>
+        <dc:title>Journal of Language Works - Sprogvidenskabeligt Studentertidsskrift</dc:title>
+        <prism:number>2</prism:number>
+        <dc:identifier>ISSN 2446-0591</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_545">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/545/Enevoldsen and Hansen - 2017 - Analysing Political Biases in Danish Newspapers Us.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://tidsskrift.dk/lwo/article/download/96014/144867</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-02-01 09:08:41</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-4503-8791-0">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4503-8791-0</dc:identifier>
+                <dc:title>The 21st Annual International Conference on Digital Government Research</dc:title>
+                <dc:identifier>DOI 10.1145/3396956.3396973</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Seoul Republic of Korea</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>ACM</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ilyas</foaf:surname>
+                        <foaf:givenName>Sardar Haider Waseem</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Soomro</foaf:surname>
+                        <foaf:givenName>Zainab Tariq</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Anwar</foaf:surname>
+                        <foaf:givenName>Ahmed</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shahzad</foaf:surname>
+                        <foaf:givenName>Hamza</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yaqub</foaf:surname>
+                        <foaf:givenName>Ussama</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_546"/>
+        <dc:title>Analyzing Brexit’s impact using sentiment analysis and topic modeling on Twitter discussion</dc:title>
+        <dcterms:abstract>In this paper we evaluate public sentiment and opinion on Brexit during September and October 2019 by collecting over 16 million user messages from Twitter - world’s largest online micro-blogging service. We perform sentiment analysis using the Python VADER library, and topic modeling using Latent Dirichlet Allocation function of the gensim library. Through sentiment analysis, we quantify daily public sentiment towards Brexit and use it to evaluate Brexit’s impact on the British currency exchange rate and stock markets in Britain. With the aid of topic modeling, we discover the most popular daily topics of discussion on Twitter using the keyword &quot;Brexit&quot;. Some of our findings include the discovery of positive correlation between Twitter sentiment towards Brexit and British pound sterling exchange rate. We also found daily discussion topics on Twitter, identified through unsupervised machine learning to be a good proxy of important current events related with Brexit.</dcterms:abstract>
+        <dc:date>2020-06-15</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dl.acm.org/doi/10.1145/3396956.3396973</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-02-01 09:21:03</dcterms:dateSubmitted>
+        <bib:pages>1-6</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>dg.o '20: The 21st Annual International Conference on Digital Government Research</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_546">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/546/Ilyas et al. - 2020 - Analyzing Brexit’s impact using sentiment analysis.pdf"/>
+        <dc:title>Ilyas et al. - 2020 - Analyzing Brexit’s impact using sentiment analysis.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dl.acm.org/doi/pdf/10.1145/3396956.3396973?casa_token=HzIm7bI3wCIAAAAA:_3IpIcQ1eMyVHr-K1qI1n245u32AqohgtaV0lrFbl7y5J8o3eusuoj8ajmwGhhWViZEDnuMiLsNBXQ</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-02-01 09:21:00</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0730725X04003017">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0730-725X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Logothetis</foaf:surname>
+                        <foaf:givenName>Nikos K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pfeuffer</foaf:surname>
+                        <foaf:givenName>Josef</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_549"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Functional magnetic resonance imaging</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Local field potentials</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Monkey brain</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Multiple-unit activity</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Synaptic activity</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>On the nature of the BOLD fMRI contrast mechanism</dc:title>
+        <dcterms:abstract>Since its development about 15 years ago, functional magnetic resonance imaging (fMRI) has become the leading research tool for mapping brain activity. The technique works by detecting the levels of oxygen in the blood, point by point, throughout the brain. In other words, it relies on a surrogate signal, resulting from changes in oxygenation, blood volume and flow, and does not directly measure neural activity. Although a relationship between changes in brain activity and blood flow has long been speculated, indirectly examined and suggested and surely anticipated and expected, the neural basis of the fMRI signal was only recently demonstrated directly in experiments using combined imaging and intracortical recordings. In the present paper, we discuss the results obtained from such combined experiments. We also discuss our current knowledge of the extracellularly measured signals of the neural processes that they represent and of the structural and functional neurovascular coupling, which links such processes with the hemodynamic changes that offer the surrogate signal that we use to map brain activity. We conclude by considering applications of invasive MRI, including injections of paramagnetic tracers for the study of connectivity in the living animal and simultaneous imaging and electrical microstimulation.</dcterms:abstract>
+        <dc:date>2004-12-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0730725X04003017</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-02-01 09:42:19</dcterms:dateSubmitted>
+        <bib:pages>1517-1531</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0730-725X">
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Proceedings of the International School on Magnetic Resonance and Brain Function</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>22</prism:volume>
+        <dc:title>Magnetic Resonance Imaging</dc:title>
+        <dc:identifier>DOI 10.1016/j.mri.2004.10.018</dc:identifier>
+        <prism:number>10</prism:number>
+        <dcterms:alternative>Magnetic Resonance Imaging</dcterms:alternative>
+        <dc:identifier>ISSN 0730-725X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_549">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/549/S0730725X04003017.html"/>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0730725X04003017?casa_token=wGvFRaFmkp8AAAAA:pzo80CQ067ApLB_7uDIArylddYWePdC831QBgm8pi9vH2i_hVu1aIjq_lyaTYxDpnSWEpbiJc-0</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-02-01 09:42:27</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1093/cercor/bhw265">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>27</prism:volume>
+                <dc:title>Cerebral Cortex</dc:title>
+                <dc:identifier>DOI 10.1093/cercor/bhw265</dc:identifier>
+                <prism:number>10</prism:number>
+                <dcterms:alternative>Cerebral Cortex</dcterms:alternative>
+                <dc:identifier>ISSN 1047-3211</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Laumann</foaf:surname>
+                        <foaf:givenName>Timothy O.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Snyder</foaf:surname>
+                        <foaf:givenName>Abraham Z.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mitra</foaf:surname>
+                        <foaf:givenName>Anish</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gordon</foaf:surname>
+                        <foaf:givenName>Evan M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gratton</foaf:surname>
+                        <foaf:givenName>Caterina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Adeyemo</foaf:surname>
+                        <foaf:givenName>Babatunde</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gilmore</foaf:surname>
+                        <foaf:givenName>Adrian W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nelson</foaf:surname>
+                        <foaf:givenName>Steven M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Berg</foaf:surname>
+                        <foaf:givenName>Jeff J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Greene</foaf:surname>
+                        <foaf:givenName>Deanna J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McCarthy</foaf:surname>
+                        <foaf:givenName>John E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tagliazucchi</foaf:surname>
+                        <foaf:givenName>Enzo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Laufs</foaf:surname>
+                        <foaf:givenName>Helmut</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schlaggar</foaf:surname>
+                        <foaf:givenName>Bradley L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dosenbach</foaf:surname>
+                        <foaf:givenName>Nico U. F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Petersen</foaf:surname>
+                        <foaf:givenName>Steven E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_551"/>
+        <link:link rdf:resource="#item_552"/>
+        <dc:title>On the Stability of BOLD fMRI Correlations</dc:title>
+        <dcterms:abstract>Measurement of correlations between brain regions (functional connectivity) using blood oxygen level dependent (BOLD) fMRI has proven to be a powerful tool for studying the functional organization of the brain. Recently, dynamic functional connectivity has emerged as a major topic in the resting-state BOLD fMRI literature. Here, using simulations and multiple sets of empirical observations, we confirm that imposed task states can alter the correlation structure of BOLD activity. However, we find that observations of “dynamic” BOLD correlations during the resting state are largely explained by sampling variability. Beyond sampling variability, the largest part of observed “dynamics” during rest is attributable to head motion. An additional component of dynamic variability during rest is attributable to fluctuating sleep state. Thus, aside from the preceding explanatory factors, a single correlation structure—as opposed to a sequence of distinct correlation structures—may adequately describe the resting state as measured by BOLD fMRI. These results suggest that resting-state BOLD correlations do not primarily reflect moment-to-moment changes in cognitive content. Rather, resting-state BOLD correlations may predominantly reflect processes concerned with the maintenance of the long-term stability of the brain's functional organization.</dcterms:abstract>
+        <dc:date>2017-10-01</dc:date>
+        <z:libraryCatalog>Silverchair</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1093/cercor/bhw265</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-02-01 09:52:08</dcterms:dateSubmitted>
+        <bib:pages>4719-4732</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_551">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/551/Laumann et al. - 2017 - On the Stability of BOLD fMRI Correlations.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/cercor/article-pdf/27/10/4719/19832217/bhw265.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-02-01 09:52:12</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_552">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/552/3060865.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/cercor/article/27/10/4719/3060865</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-02-01 09:52:25</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+</rdf:RDF>
